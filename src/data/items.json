@@ -1,0 +1,45 @@
+[
+{
+    "id": 1,
+    "name": "Nike Slides",
+    "price": 99.99,
+    "imgUrl": "/imgs/shoe1.jpg",
+    "description": "Lounge in style with Nike Slides"
+},
+{
+    "id": 2,
+    "name": "Bounce 3000's",
+    "price": 199.99,
+    "imgUrl": "/imgs/shoe2.jpg",
+    "description": "Low grav effect"
+},
+{
+    "id": 3,
+    "name": "Jump 2005's",
+    "price": 149.99,
+    "imgUrl": "/imgs/shoe3.jpg",
+    "description": "Double your jump height"
+},
+{
+    "id": 4,
+    "name": "Bounce 3000 High-Tops",
+    "price": 249.99,
+    "imgUrl": "/imgs/shoe4.jpg",
+    "description": "Low grav effect in a high top style"
+},
+{
+    "id": 5,
+    "name": "Jump 2005's",
+    "price": 149.99,
+    "imgUrl": "/imgs/shoe3.jpg",
+    "description": "Double your jump height"
+},
+{
+    "id": 6,
+    "name": "Bounce 3000'",
+    "price": 199.99,
+    "imgUrl": "/imgs/shoe2.jpg",
+    "description": "Low grav effect"
+}
+
+]
